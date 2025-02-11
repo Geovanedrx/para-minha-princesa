@@ -247,7 +247,7 @@
     <div class="hero-content">
       <p>Para</p>
       <h1>Minha namorada ❤️</h1>
-      <p> 11/02/2025</p>
+      <p>11/02/2025</p>
     </div>
   </header>
   
